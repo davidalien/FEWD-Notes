@@ -19,7 +19,7 @@
 
 ##Use
 
-1. Open your folder in Sublime Text, then open the HTML page in Chrome.
+1. Open your working folder in Sublime Text, then open the HTML page in Chrome.
 2. Click the LiveReload extension button in Chrome.
 3. Now when you save changes in Sublime Text, the changes will appear in the browser.
 
